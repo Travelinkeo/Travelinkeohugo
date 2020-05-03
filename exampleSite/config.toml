@@ -1,4 +1,4 @@
-baseURL = "http://travelinkeo-prueba.nefily.com"
+baseURL = "https://travelinkeo1331.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
