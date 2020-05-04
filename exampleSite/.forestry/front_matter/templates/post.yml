@@ -4,13 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: 'Tituló '
 - type: datetime
   name: date
-  label: date
+  label: Fecha
+  config:
+    date_format: DD/MM/YYYY
 - type: file
   name: image
-  label: image
+  label: imagen
 - type: text
   name: description
-  label: description
+  label: 'descripción '
