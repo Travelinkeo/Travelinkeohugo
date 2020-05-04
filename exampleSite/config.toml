@@ -26,10 +26,10 @@ copyright = "Copyright &copy; 2020 a theme by [Travelinkeo Desing](#)"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
-home = "Home"
+home = "Inicio"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = "+58 212 6317079"
+theme_color = "#0D1E40"
 [params.contact]
 enable = true
 form_action = "#"
