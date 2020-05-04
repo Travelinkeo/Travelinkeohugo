@@ -114,6 +114,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: ''
+    URL: https://res.cloudinary.com/travelinkeo/image/upload/v1588597683/Logotipo2_FFFFFF_lm39kq.png
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-2.png
