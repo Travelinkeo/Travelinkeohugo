@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "Travelinkeo"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Quienes somos "
 weight = 2
 [[menu.main]]
 URL = "blog"
