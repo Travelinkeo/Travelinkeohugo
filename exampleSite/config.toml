@@ -20,11 +20,11 @@ URL = "contact"
 name = "Contacto"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "Prolongación Zuloaga, Edif. Q, Caracas 1040 "
 author = "Armando Alemán "
 copyright = "Copyright &copy; 2020 a theme by [Travelinkeo Desing](#)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "travelinkeo@gmail.com"
 google_analytics_id = ""
 home = "Inicio"
 logo = "images/logo.png"
