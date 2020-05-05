@@ -31,3 +31,5 @@ team:
 clients_logo_slider:
   enable: true
   title: My Clients
+  item:
+  - logo: ''
