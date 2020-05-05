@@ -52,7 +52,7 @@ enable = true
 preloader = ""
 [[params.social]]
 URL = "#"
-icon = "fas fa-camera"
+icon = "fa-camera"
 [[params.social]]
 URL = "https://www.facebook.com/travelinkeo"
 icon = "ti-facebook"
