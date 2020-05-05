@@ -85,7 +85,7 @@ portfolio:
   item_show: "5"
 testimonial:
   enable: true
-  title: Testimonials
+  title: Testimonios
   item:
   - name: Jesica Gomez
     image: images/testimonial/client-1.png
