@@ -25,7 +25,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: roboto, sans-serif
+  font-family: Open San, sans-serif
 }
 
 h1,
@@ -35,7 +35,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: Open San, serif;
   line-height: 1.2
 }
 
@@ -87,7 +87,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: playfair display, serif;
+  font-family: Open San, serif;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -223,7 +223,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: bwnistaint-xbd
+  font-family: Open San
 }
 
 .bg-cover {
@@ -742,7 +742,7 @@ blockquote {
 }
 
 .content strong {
-  font-family: playfair display, serif;
+  font-family: Open San, serif;
   font-size: 22px;
   font-weight: 400;
   color: #000;
