@@ -25,7 +25,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: Open San, sans-serif
+  font-family: Open Sans, Verdana
 }
 
 h1,
@@ -35,7 +35,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: Open San, serif;
+  font-family: Open Sans, Verdana;
   line-height: 1.2
 }
 
@@ -87,7 +87,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: Open San, serif;
+  font-family: Open Sans, Verdana;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -223,7 +223,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: Open San
+  font-family: Open Sans
 }
 
 .bg-cover {
