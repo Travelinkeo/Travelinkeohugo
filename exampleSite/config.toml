@@ -54,7 +54,7 @@ preloader = ""
 URL = "https://www.facebook.com/travelinkeo"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/travelinkeo/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
