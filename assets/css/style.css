@@ -3,7 +3,7 @@
 PROJECT: Project Name
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
-@import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
+/*@import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";*/
 
 @font-face {
   font-family: "Harabara", sans-serif;
@@ -223,7 +223,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: Open Sans
+  font-family: "Open Sans", sans-serif
 }
 
 .bg-cover {
@@ -332,11 +332,11 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: "Open Sans", sans-serif !important
 }
 
 .font-tertiary {
-  font-family: bwnistaint-xbd !important
+  font-family: "Open Sans", sans-serif !important
 }
 
 .shadow {
